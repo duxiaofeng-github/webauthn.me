@@ -2,25 +2,25 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://webauthn.me/browser-support</loc>
-    <lastmod>2023-08-11T08:42:03.369Z</lastmod>
+    <lastmod>2023-08-14T08:34:57.601Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://webauthn.me/debugger</loc>
-    <lastmod>2023-08-11T08:42:03.334Z</lastmod>
+    <lastmod>2023-08-14T08:34:57.566Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://webauthn.me/</loc>
-    <lastmod>2023-08-11T08:42:03.244Z</lastmod>
+    <lastmod>2023-08-14T08:34:57.468Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://webauthn.me/introduction</loc>
-    <lastmod>2023-08-11T08:42:03.192Z</lastmod>
+    <lastmod>2023-08-14T08:34:57.407Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
